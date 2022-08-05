@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Trabalho como Desenvolvedor Front-end há mais de dois anos e já atuei em diversos tipos de sistemas, como sistemas hospitalares, plataforma de investimentos, sistema de coleta de resíduos, entre outros...</p>
+<p align="left">Trabalho como Desenvolvedor há mais de dois anos e já atuei em diversos tipos de sistemas, como sistemas hospitalares, plataforma de investimentos, sistema de coleta de resíduos, entre outros...
+
+Principais técnologias: React JS, Styled Components, Material-UI, React Testing Library, Redux, Context API, SASS, TypeScript, GIT.</p>
 
 ###
 
