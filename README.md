@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou o Alex Miguel, tenho 27 anos e moro em Curitiba.</p>
+<p align="left">Eu sou o Alex Miguel, tenho 28 anos e moro em Curitiba.</p>
 
 ###
 
