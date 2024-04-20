@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Trabalho como Desenvolvedor há mais de dois anos e já atuei em diversos tipos de sistemas, como hospitalares, plataforma de investimentos, sistema de coleta de resíduos, entre outros...</p>
+<p align="left">Trabalho como Desenvolvedor há mais de três anos e já atuei em diversos tipos de sistemas, como hospitalares, plataforma de investimentos, sistema de coleta de resíduos, entre outros...</p>
 
 ###
 
